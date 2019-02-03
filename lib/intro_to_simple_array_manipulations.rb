@@ -29,6 +29,7 @@ def shift_with_args(x)
 end
 
 def using_concat(x)
+  x.concat
   
 end
   
