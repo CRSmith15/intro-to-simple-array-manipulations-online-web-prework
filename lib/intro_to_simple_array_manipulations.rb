@@ -16,3 +16,7 @@ def using_pop(x)
   x = great_hits_of_the_nineties
   x.pop 
 end
+
+def pop_with_args(x)
+  
+  
