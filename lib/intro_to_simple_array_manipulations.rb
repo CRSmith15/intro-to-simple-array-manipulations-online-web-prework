@@ -10,7 +10,7 @@ def using_unshift (x, y)
   updated_array = x.unshift(y)
 end 
 
-def using_pop(x.size)
+def using_pop(x)
   
   great_hits_of_the_nineties = ["Baby One More Time", "Smells Like Teen Spirit", "Missing", "Walking On The Sun", "Hard Knock Life", "Losing My Religion"]
   x = great_hits_of_the_nineties
