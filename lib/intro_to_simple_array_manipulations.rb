@@ -45,4 +45,8 @@ end
 def using_flatten(x)
 x.flatten  
 end 
+
+def using_delete(x, y)
+  
+end 
   
