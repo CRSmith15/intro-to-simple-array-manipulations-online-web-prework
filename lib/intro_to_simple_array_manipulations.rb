@@ -33,8 +33,8 @@ def using_concat(x,more_favs)
   
 end
 
-def using_insert(x, y)
-  x.insert (4,)
+def using_insert(x, another_esoteric_language)
+  x.insert (4,another_esoteric_language)
   
 end
   
