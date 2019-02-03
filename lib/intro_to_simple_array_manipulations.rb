@@ -37,4 +37,6 @@ def using_insert(x, another_esoteric_language)
   x.insert(4,another_esoteric_language)
   
 end
+
+def using_uniq
   
