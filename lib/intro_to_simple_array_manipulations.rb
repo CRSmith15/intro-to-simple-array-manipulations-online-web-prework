@@ -23,7 +23,8 @@ def using_shift(x)
   
 end 
 
-def shift_with_args
+def shift_with_args(x)
+  x.shift(2)
   
 end
   
