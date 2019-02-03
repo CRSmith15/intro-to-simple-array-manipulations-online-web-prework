@@ -50,4 +50,8 @@ def using_delete(x, y)
   x.delete(y)
   
 end 
+
+def using_delete_at(x, y)
+  x.delete
+end
   
