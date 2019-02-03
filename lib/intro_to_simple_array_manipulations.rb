@@ -11,7 +11,6 @@ def using_unshift (x, y)
 end 
 
 def using_pop(x)
-  x = great_hits_of_the_nineties
   x.pop 
 end
 
