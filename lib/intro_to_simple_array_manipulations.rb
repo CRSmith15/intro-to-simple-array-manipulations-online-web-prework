@@ -32,4 +32,8 @@ def using_concat(x,more_favs)
   x.concat(more_favs)
   
 end
+
+def using_insert
+  
+end
   
