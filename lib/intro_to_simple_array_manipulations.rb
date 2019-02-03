@@ -52,6 +52,6 @@ def using_delete(x, y)
 end 
 
 def using_delete_at(x, y)
-  x.delete
+  x.delete(y)
 end
   
