@@ -15,5 +15,6 @@ def using_pop(x)
 end
 
 def pop_with_args(x)
+  x.pop(2)
 end
   
