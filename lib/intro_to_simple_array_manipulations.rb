@@ -43,6 +43,6 @@ def using_uniq(x)
 end
 
 def using_flatten(x)
-  
+x.flatten  
 end 
   
