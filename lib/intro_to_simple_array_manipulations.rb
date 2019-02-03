@@ -28,7 +28,7 @@ def shift_with_args(x)
   
 end
 
-def using_concat(x)
+def using_concat(x,more_favs)
   x.concat(more_favs)
   
 end
